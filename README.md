@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there !!<br>  I am a Full Stack Web Developer currently working on interesting  Frontend , Cloud and Backend projects ,<br>  I am looking to collaborate on open-source projects<br>  I am   learning Kubernetes, GCP, Jenkins <br>  If not around tech then you will find me travelling, weight training or maybe just chilling .
+Hey there !!<br>  I am a Full Stack Web Developer currently working on interesting  Frontend , Cloud and Backend projects ,<br>  I am looking to collaborate on open-source projects<br>  I am   learning Kubernetes, GCP, Jenkins and Python <br>  If not around tech then you will find me travelling, weight training or maybe just chilling .
 
 
 ## 🌐 Socials:
