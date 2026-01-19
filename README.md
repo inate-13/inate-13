@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 Hey !!<br>  I am an Experienced  Full Stack Web Developer currently working on interesting  Frontend , Cloud and Backend projects ,<br>  I am looking to collaborate on open-source projects<br>  I am  currently  learning Kubernetes,  AI , ML and Python <br>  If not around tech then you will find me travelling, weight training or maybe just chilling .
 
 
