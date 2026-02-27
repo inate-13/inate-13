@@ -1,5 +1,5 @@
 # 💫 About Me: 
-Hey there!! <br>  An Experienced Full Stack Web Developer currently working on AI powered  Frontend , Cloud and Backend projects ,<br>  I am looking to collaborate on open-source projects<br> Currently  learning LangChain ,ML,  AI , ML and Python <br>  If not around tech then you will find me travelling, weight training or maybe just chilling . 
+Hey there !! <br>  An Experienced Full Stack Web Developer currently working on AI powered  Frontend , Cloud and Backend projects ,<br>  I am looking to collaborate on open-source projects<br> Currently  learning LangChain ,ML,  AI , ML and Python <br>  If not around tech then you will find me travelling, weight training or maybe just chilling . 
 
 
 ## 🌐 Socials:
