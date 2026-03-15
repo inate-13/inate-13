@@ -1,7 +1,6 @@
 # 💫 About Me: 
 Hey there !! <br>  An Experienced Full Stack Web Developer currently working on AI powered  Frontend , Cloud and Backend projects ,<br>  I am looking to collaborate on open-source projects<br> Currently  learning LangChain ,ML,  AI , ML and Python <br>  If not around tech then you will find me travelling, weight training or maybe just chilling. 
    
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/13_inate) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-chouhan-1010b3213) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Chouhansagar) 
 
