@@ -1,5 +1,5 @@
  # 💫 About Me:    
-Hey there !! <br> I am An Experienced Full Stack Web Developer currently working on AI powered  Applications , I build with Frontend, Cloud and Backend projects ,<br>  I am looking to collaborate on open-source projects, AI enabled products and Scaling tech businesses <br> Currently  learning about Agents ,ML, AI , ML <br>  If not around tech then you will find me playing volleyball,travelling, weight training or maybe just chilling. 
+Hey there !! <br> I am An Experienced Full Stack Web Developer currently working on AI powered  Applications , I build with Frontend, Cloud and Backend projects ,<br>  I am looking to collaborate on open-source projects, AI enabled products and Scaling tech businesses <br> Currently  learning about Agents ,ML, AI , ML <br>  If not around tech then you will find me playing volleyball,travelling, weight training or certainly chilling. 
                  
 ## 🌐 Socials:      
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/13_inate) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-chouhan-1010b3213) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Chouhansagar) 
